@@ -1,18 +1,19 @@
 .header{
     background-color: white;
-    
-    
-}
-.header-menu{
-    display: flex;
-    flex-direction: column;
-
-}
-.logo-menu{
-    align-self: center;
-
+    position: fixed;
+    width: 100%;  
+    text-align: center;    
 }
 .header--nav{
-    align-self: center;
+    display: flex;
+    justify-content: center;
+    
 
+}
+.elem{
+    list-style: none;
+}
+.logo{
+    
+    
 }
