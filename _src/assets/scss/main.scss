@@ -1,3 +1,7 @@
 @import 'core/settings';
 @import 'components/header';
 @import 'components/main';
+
+body {
+	background-color:$color-body; 
+}
