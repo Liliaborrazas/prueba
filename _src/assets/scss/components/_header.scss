@@ -2,7 +2,8 @@
     background-color: white;
     position: fixed;
     width: 100%;  
-    text-align: center;    
+    text-align: center; 
+    padding: 10px 0 13px;   
 }
 .header--nav{
     display: flex;
@@ -11,9 +12,11 @@
 
 }
 .elem{
+    display: flex;
     list-style: none;
+
 }
-.logo{
     
-    
+.li--style{
+    margin-right: 20px;
 }
